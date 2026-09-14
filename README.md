@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MoAltamas/javadsa/tree/master/0001-two-sum) |
 | [0835-image-overlap](https://github.com/MoAltamas/javadsa/tree/master/0835-image-overlap) |
+| [1470-shuffle-the-array](https://github.com/MoAltamas/javadsa/tree/master/1470-shuffle-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MoAltamas/javadsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
