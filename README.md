@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MoAltamas/javadsa/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MoAltamas/javadsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MoAltamas/javadsa/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/MoAltamas/javadsa/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MoAltamas/javadsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MoAltamas/javadsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
