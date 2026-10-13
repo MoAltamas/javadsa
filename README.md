@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MoAltamas/javadsa/tree/master/0283-move-zeroes) |
 | [0835-image-overlap](https://github.com/MoAltamas/javadsa/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/MoAltamas/javadsa/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/MoAltamas/javadsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MoAltamas/javadsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/MoAltamas/javadsa/tree/master/1470-shuffle-the-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoAltamas/javadsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/MoAltamas/javadsa/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/MoAltamas/javadsa/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/MoAltamas/javadsa/tree/master/0922-sort-array-by-parity-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MoAltamas/javadsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/MoAltamas/javadsa/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/MoAltamas/javadsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/MoAltamas/javadsa/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MoAltamas/javadsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Search Tree
