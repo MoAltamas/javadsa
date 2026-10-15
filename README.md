@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MoAltamas/javadsa/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/MoAltamas/javadsa/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/MoAltamas/javadsa/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MoAltamas/javadsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/MoAltamas/javadsa/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/MoAltamas/javadsa/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MoAltamas/javadsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MoAltamas/javadsa/tree/master/0922-sort-array-by-parity-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MoAltamas/javadsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MoAltamas/javadsa/tree/master/0098-validate-binary-search-tree) |
+| [0633-sum-of-square-numbers](https://github.com/MoAltamas/javadsa/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MoAltamas/javadsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MoAltamas/javadsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/MoAltamas/javadsa/tree/master/0938-range-sum-of-bst) |
