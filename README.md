@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MoAltamas/javadsa/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/MoAltamas/javadsa/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/MoAltamas/javadsa/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/MoAltamas/javadsa/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MoAltamas/javadsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MoAltamas/javadsa/tree/master/0098-validate-binary-search-tree) |
+| [0367-valid-perfect-square](https://github.com/MoAltamas/javadsa/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/MoAltamas/javadsa/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MoAltamas/javadsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MoAltamas/javadsa/tree/master/0701-insert-into-a-binary-search-tree) |
