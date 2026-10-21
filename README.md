@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoAltamas/javadsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MoAltamas/javadsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MoAltamas/javadsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MoAltamas/javadsa/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/MoAltamas/javadsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MoAltamas/javadsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MoAltamas/javadsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MoAltamas/javadsa/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Recursion
 |  |
 | ------- |
