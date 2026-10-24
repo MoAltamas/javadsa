@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MoAltamas/javadsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MoAltamas/javadsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/MoAltamas/javadsa/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MoAltamas/javadsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoAltamas/javadsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MoAltamas/javadsa/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MoAltamas/javadsa/tree/master/0283-move-zeroes) |
 | [0835-image-overlap](https://github.com/MoAltamas/javadsa/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/MoAltamas/javadsa/tree/master/0905-sort-array-by-parity) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/MoAltamas/javadsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MoAltamas/javadsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/MoAltamas/javadsa/tree/master/1096-brace-expansion-ii) |
@@ -204,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MoAltamas/javadsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
