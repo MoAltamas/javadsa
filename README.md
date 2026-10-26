@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MoAltamas/javadsa/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MoAltamas/javadsa/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/MoAltamas/javadsa/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MoAltamas/javadsa/tree/master/0283-move-zeroes) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MoAltamas/javadsa/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/MoAltamas/javadsa/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/MoAltamas/javadsa/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MoAltamas/javadsa/tree/master/0905-sort-array-by-parity) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MoAltamas/javadsa/tree/master/0011-container-with-most-water) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MoAltamas/javadsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MoAltamas/javadsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MoAltamas/javadsa/tree/master/3727-maximum-alternating-sum-of-squares) |
