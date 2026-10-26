@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MoAltamas/javadsa/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/MoAltamas/javadsa/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/MoAltamas/javadsa/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/MoAltamas/javadsa/tree/master/0633-sum-of-square-numbers) |
