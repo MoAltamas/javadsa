@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MoAltamas/javadsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MoAltamas/javadsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MoAltamas/javadsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MoAltamas/javadsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MoAltamas/javadsa/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Recursion
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MoAltamas/javadsa/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MoAltamas/javadsa/tree/master/0404-sum-of-left-leaves) |
 | [0938-range-sum-of-bst](https://github.com/MoAltamas/javadsa/tree/master/0938-range-sum-of-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/MoAltamas/javadsa/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/MoAltamas/javadsa/tree/master/0404-sum-of-left-leaves) |
 | [1096-brace-expansion-ii](https://github.com/MoAltamas/javadsa/tree/master/1096-brace-expansion-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/MoAltamas/javadsa/tree/master/0835-image-overlap) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
