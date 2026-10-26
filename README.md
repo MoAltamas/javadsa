@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MoAltamas/javadsa/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/MoAltamas/javadsa/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MoAltamas/javadsa/tree/master/0283-move-zeroes) |
 | [0835-image-overlap](https://github.com/MoAltamas/javadsa/tree/master/0835-image-overlap) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MoAltamas/javadsa/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/MoAltamas/javadsa/tree/master/0098-validate-binary-search-tree) |
 | [0367-valid-perfect-square](https://github.com/MoAltamas/javadsa/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/MoAltamas/javadsa/tree/master/0633-sum-of-square-numbers) |
