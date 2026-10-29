@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MoAltamas/javadsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2409-count-days-spent-together](https://github.com/MoAltamas/javadsa/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MoAltamas/javadsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/MoAltamas/javadsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MoAltamas/javadsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MoAltamas/javadsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/MoAltamas/javadsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MoAltamas/javadsa/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Recursion
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/MoAltamas/javadsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MoAltamas/javadsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/MoAltamas/javadsa/tree/master/0938-range-sum-of-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/MoAltamas/javadsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/MoAltamas/javadsa/tree/master/0404-sum-of-left-leaves) |
 | [0938-range-sum-of-bst](https://github.com/MoAltamas/javadsa/tree/master/0938-range-sum-of-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/MoAltamas/javadsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MoAltamas/javadsa/tree/master/0231-power-of-two) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/MoAltamas/javadsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -214,14 +219,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MoAltamas/javadsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/MoAltamas/javadsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MoAltamas/javadsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/MoAltamas/javadsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MoAltamas/javadsa/tree/master/0169-majority-element) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/MoAltamas/javadsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
