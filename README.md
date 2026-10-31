@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/MoAltamas/javadsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MoAltamas/javadsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/MoAltamas/javadsa/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MoAltamas/javadsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MoAltamas/javadsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MoAltamas/javadsa/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/MoAltamas/javadsa/tree/master/0835-image-overlap) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/MoAltamas/javadsa/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MoAltamas/javadsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/MoAltamas/javadsa/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
