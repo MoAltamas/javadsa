@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MoAltamas/javadsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/MoAltamas/javadsa/tree/master/0058-length-of-last-word) |
 | [0301-remove-invalid-parentheses](https://github.com/MoAltamas/javadsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MoAltamas/javadsa/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MoAltamas/javadsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
