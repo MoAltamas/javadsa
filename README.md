@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoAltamas/javadsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MoAltamas/javadsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MoAltamas/javadsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MoAltamas/javadsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MoAltamas/javadsa/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MoAltamas/javadsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MoAltamas/javadsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MoAltamas/javadsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/MoAltamas/javadsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MoAltamas/javadsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MoAltamas/javadsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MoAltamas/javadsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MoAltamas/javadsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MoAltamas/javadsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/MoAltamas/javadsa/tree/master/3665-twisted-mirror-path-count) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/MoAltamas/javadsa/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/MoAltamas/javadsa/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/MoAltamas/javadsa/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MoAltamas/javadsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MoAltamas/javadsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MoAltamas/javadsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Geometry
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MoAltamas/javadsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MoAltamas/javadsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/MoAltamas/javadsa/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
@@ -261,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MoAltamas/javadsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MoAltamas/javadsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
